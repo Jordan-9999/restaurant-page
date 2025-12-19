@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+nav{
+    display:flex;
+    justify-content: center;
+    padding-bottom:10px;
+   
+}
+button{
+    padding:5px 10px;
+    margin:7px;
+    font-weight: bold;
+}
+#content{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    border:solid black 2px;
+    background-color: rgb(255, 153, 153);
+    width:80vw;
+    padding:15px;
+}
